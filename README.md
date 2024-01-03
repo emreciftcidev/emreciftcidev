@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @emreciftcidev
-- 👀 I’m interested in İOS development (Swift)
-- 🌱 I’m currently learning Swift.
+- 👋 Hi, I’m @emreciftcidev , Im 22 and live in Istanbul.
+- 👀 I’m interested in İOS development (Swift) and WEB Development.
+- 🌱 I’m currently learning Swift, Front-end / Back-end Development Languages.
 
 
 <!---
