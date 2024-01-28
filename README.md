@@ -1,11 +1,11 @@
 <body>
-    <p>I'm Emre Çiftçi. I'm 22 years old and I live in Istanbul.</p>
-    <p>I managed our building materials market business between 2021-2024.</p>
-    <p>Afterwards, I started to be interested in software development.</p> 
-    <p>Following this interest, I applied to courses in WEB and Mobile Application Development.</p> 
+    <p>I'm Emre Çiftçi. I'm 22 years old and I live in Istanbul.
+    <p>I managed our building materials market business between 2021-2024.
+    <p>Afterwards, I started to be interested in software development.
+    <p>Following this interest, I applied to courses in WEB and Mobile Application Development.
     <p>I started learning with the courses I was entitled to. 
-    <p>I am currently learning Front-end / Back-end for WEB and Swift software languages for mobile application development.</p>
-    <p>I'm also learning Flutter with the Kodluyoruz Hİ-Kod 2.0 bootcamp that I am entitled to attend.</p>
+    <p>I am currently learning Front-end / Back-end for WEB and Swift software languages for mobile application development.
+    <p>I'm also learning Flutter with the Kodluyoruz Hİ-Kod 2.0 bootcamp that I am entitled to attend.
     <p>I'm enthusiastically getting involved in communities, meeting new people, and learning from their experiences. Joining teams and taking part in interviews helps me gain new skills and grow as a person.</p>
 </body>
 
