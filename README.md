@@ -1,5 +1,5 @@
 <body>
-    <p>I'm Emre Çiftçi. I'm 22 years old and I live in Istanbul.
+    <p>I'm Emre Çiftçi. I'm 23 years old and I live in Istanbul.
     I managed our building materials market business between 2021-2024.
     Afterwards, I started to be interested in software development.
     Following this interest, I applied to courses in WEB and Mobile Application Development.
