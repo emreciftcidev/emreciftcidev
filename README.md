@@ -12,7 +12,7 @@ My name is Emre Ciftci. I am 23 years old. I have been interested in software de
 
 ## 💼 My Experiences
 
-- 🩵 Flutter Mentor [Kodluyoruz] (2024-Now)
+- 🩵 Flutter Mentor - Hi Kod 2.0 Workshop [Kodluyoruz] (2024-Now)
 
 ## 📝 My Medium Blogs
 
