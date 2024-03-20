@@ -8,7 +8,7 @@
 
 <h3>Hello, It's Emre!</h3> 
 
-I'm Emre Çiftçi. I'm 23 years old and I live in Istanbul. I managed our building materials market business between 2021-2024. Afterwards, I started to be interested in software development. Following this interest, I applied to courses in WEB and Mobile Application Development. I started learning with the courses I was entitled to. I am currently learning Front-end / Back-end for WEB and Swift software languages for mobile application development. I'm also learning Flutter with the Kodluyoruz Hİ-Kod 2.0 bootcamp that I am entitled to attend. I'm enthusiastically getting involved in communities, meeting new people, and learning from their experiences. Joining teams and taking part in interviews helps me gain new skills and grow as a person.
+My name is Emre Ciftci. I am 23 years old. I have been interested in software development for a long time. Progressing in this sector makes me happier every day. I am currently actively developing with Flutter and Swift mobile application development languages. I do not limit myself only to these technologies, I am researching and trying to experience many technologies in order to look at the software development industry from a broad perspective.
 
 ## 💼 My Experiences
 
